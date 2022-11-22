@@ -1,1 +1,12 @@
 # TA29
+-https://facusilva.github.io/TA29/deportes/donde.html
+-https://facusilva.github.io/TA29/deportes/donde2.html
+-https://facusilva.github.io/TA29/deportes/instalaciones.html
+-https://facusilva.github.io/TA29/Ex13/
+-https://facusilva.github.io/TA29/Ex14/
+-https://facusilva.github.io/TA29/Ex15/
+-https://facusilva.github.io/TA29/Ex16/
+-https://facusilva.github.io/TA29/Ex17/
+-https://facusilva.github.io/TA29/Ex18/
+-https://facusilva.github.io/TA29/Ex19/
+-https://facusilva.github.io/TA29/Ex20/

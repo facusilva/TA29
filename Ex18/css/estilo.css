@@ -1,0 +1,68 @@
+#anterior{
+  width: 220px;
+  height: 120px;
+  background-color: aqua;
+  background-image: url('./../images/f01.png');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  margin-bottom:20px;
+  border: 4px solid blue;
+
+}
+
+#contenido{
+  width: 350px;
+  height: 300px;
+  background-color: aqua;
+  background-image: url('./../images/f01.png');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  margin-bottom:20px;
+  margin-left:20px;
+  border: 4px solid red;
+}
+
+
+
+#posterior{
+  width: 300px;
+  height: 200px;
+}
+
+#nubes-contenido{
+  width: 100%;
+  height: 40%; 
+  background-image: url('./../images/f03.png');
+  background-repeat: repeat-x;
+}
+
+#mario-contenido{
+  width: 100%;
+  height: 59%;
+  background-image: url('./../images/f02.png');
+  background-repeat: no-repeat;
+  background-position: bottom -3px left 1px;
+}
+
+
+img{
+  display:block;
+}
+
+p{
+  display:inline;
+}
+#mario-anterior{
+  height: 84%;
+}
+
+#nubes-anterior{
+  top:-20px;
+  width: 100%;
+  height: 100%; 
+  background-image: url('./../images/f03.png');
+  background-repeat: repeat-x;
+}
+
+
+

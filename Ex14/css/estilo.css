@@ -1,0 +1,26 @@
+
+  div{
+    width: 900px;
+    height: 600px;
+    margin: 50px auto;
+    background-image: url('./../images/pinguinos.jpg');
+    display:flex;
+  }
+
+  table, th, td {
+    border: 1px solid;
+  }
+
+  table{
+    margin: auto;
+    vertical-align: middle;
+    width: 50%;
+  }
+
+  th{
+    background-color: whitesmoke;
+  }
+
+  td{
+    background-color: bisque;
+  }

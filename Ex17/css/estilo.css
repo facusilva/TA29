@@ -1,0 +1,126 @@
+#container{
+  background-image: url('./../images/ac.jpg');
+  width: 800px;
+  height: 600px;
+  margin: 50px auto;
+}
+
+.row{
+  width: 100%;
+  height: 200px;
+  margin: auto;
+}
+
+.row > div{
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin: 1%;
+  border: 1px solid black;
+  margin-left: 30px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+#a > div{
+  background-image: url('./../images/back_mantel.jpg');
+  height: 100%;
+}
+#b{
+  box-sizing: border-box;
+  padding: 20px;
+  
+}
+#b > div{
+  background-image: url('./../images/back_mantel.jpg');
+  width: auto;
+  height: 100%;
+}
+
+#c{
+  box-sizing: border-box;
+}
+
+#c > div{
+  background-image: url('./../images/back_mantel.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+}
+
+#d{
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: whitesmoke;
+}
+
+#d > div{ 
+  background-image: url('./../images/back_mantel.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100%;
+}
+
+#e > div{
+  background-image: url('./../images/dh.jpg');
+  height: 100%;
+  background-size: 100% 100%;
+}
+
+#f{
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: whitesmoke;
+}
+
+#f > div{
+  background-image: url('./../images/dh.jpg');
+  height: 100%;
+  background-size: 100% 100%;
+}
+
+#g{
+  box-sizing: border-box;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: whitesmoke;
+}
+
+#g > div{
+  background-image: url('./../images/dh_2.jpg');
+  height: 100%;
+  background-size: 100% 100%;
+}
+
+#h{
+  box-sizing: border-box;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: whitesmoke;
+}
+
+#h > div{
+  background-image: url('./../images/dh_3.jpg');
+  height: 100%;
+  background-size: 100% 100%;
+}
+
+#i > div{
+  background: linear-gradient(to right, #9dd53a 0%,#a1d54f 27%,#80c217 71%,#305e05 100%);
+  height: 100%;
+}
+
+#j > div{
+  background: linear-gradient(to bottom, #fcd9c7 0%,#f17432 50%,#ea5507 67%,#ea5507 67%,#ea5507 72%,#f17432 85%,#f9bf9f 100%);
+  height: 100%;
+}
+
+#k > div{
+  background: linear-gradient(to bottom, #b4ddb4 0%,#83c783 35%,#83c783 35%,#44af44 66%,#005700 100%);
+  height: 100%;
+}
+
+#l > div{
+  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(5,125,9,1) 98%,rgba(0,122,4,1) 100%);
+  height: 100%;
+}
